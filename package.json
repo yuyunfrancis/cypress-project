@@ -4,7 +4,7 @@
   "description": "cypress udemy project",
   "main": "index.js",
   "scripts": {
-    "runner": "cypress open --e2e --browser chrome"
+    "runner": "cypress open --e2e --browser chrome  baseUrl=http://uitestingplayground.com --env demoVar=Hello_from_package_json"
   },
   "keywords": [
     "cypress",
