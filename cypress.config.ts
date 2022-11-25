@@ -14,7 +14,7 @@ export default defineConfig({
       Angular:"https://www.globalsqa.com/"
     }
   },
-  pageLoadTimeout:60000,
+  pageLoadTimeout:80000,
   viewportHeight:1000,
   viewportWidth:1400
 
